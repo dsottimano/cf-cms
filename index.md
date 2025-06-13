@@ -3,23 +3,34 @@
 layout: home
 
 hero:
-  name: "CF-CMS"
-  text: "Content Management Simplified"
-  tagline: A modern, fast, and SEO-friendly CMS built with VitePress
+  name: "OpenSourceSEO"
+  text: "Technical SEO Knowledge Hub"
+  tagline: "In-depth guides, open source tools, and technical configurations for the modern SEO professional"
   actions:
     - theme: brand
-      text: Read the Blog
-      link: /blog/
+      text: Browse Guides
+      link: /guides/
     - theme: alt
-      text: View Examples
-      link: /markdown-examples
+      text: Latest Posts
+      link: /blog/
 
 features:
-  - title: ⚡ Lightning Fast
-    details: Built on VitePress with instant hot reload and optimized static builds for maximum performance
-  - title: 🎯 SEO Optimized
-    details: Pre-rendered HTML, perfect Core Web Vitals, and automatic meta tag generation for better rankings
-  - title: 🛠️ Developer Friendly
-    details: Markdown-first content creation with Vue components, simple configuration, and no framework bloat
+  - title: 🔧 Technical Configuration Guides
+    details: Step-by-step tutorials for server configs, schema markup, Core Web Vitals optimization, and advanced technical SEO implementations.
+  
+  - title: 📊 Open Source SEO Tools
+    details: Curated collection of open source tools, scripts, and datasets for SEO analysis, automation, and reporting.
+  
+  - title: 🚀 Performance & Speed
+    details: Deep dives into site speed optimization, Lighthouse scoring, and technical performance improvements that impact rankings.
+  
+  - title: 📈 Data-Driven SEO
+    details: Analytics setup, custom tracking, API integrations, and data analysis techniques for evidence-based SEO strategies.
+  
+  - title: 🛠️ Developer-Friendly
+    details: Code examples, GitHub repositories, and technical implementations that bridge the gap between SEO and development.
+  
+  - title: 🎯 Real-World Case Studies
+    details: Practical examples from actual implementations, with before/after results and lessons learned from technical SEO projects.
 ---
 

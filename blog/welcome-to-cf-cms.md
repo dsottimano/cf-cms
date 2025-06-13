@@ -1,49 +1,72 @@
 ---
-title: Welcome to CF-CMS
-description: Introducing CF-CMS - a modern, fast, and SEO-friendly content management system built with VitePress
-date: 2025-01-15
-author: CF-CMS Team
-tags: [cms, vitepress, seo, static-sites]
+title: "Welcome to OpenSourceSEO"
+description: "Introducing OpenSourceSEO - your go-to resource for technical SEO guides, open source tools, and in-depth optimization strategies."
+date: 2024-12-13
+author: "David Sottimano"
+tags: ["announcement", "technical-seo", "open-source"]
 ---
 
-# Welcome to CF-CMS
+# Welcome to OpenSourceSEO
 
-We're excited to introduce **CF-CMS** - a modern content management system that prioritizes speed, SEO, and developer experience.
+I'm excited to launch **OpenSourceSEO** - a comprehensive resource dedicated to technical SEO knowledge, open source tools, and practical optimization strategies for the modern SEO professional.
 
-## Why CF-CMS?
+## What You'll Find Here
 
-After struggling with complex frameworks and their endless configuration issues, we decided to build something different:
+### 🔧 In-Depth Technical Guides
+Step-by-step tutorials covering everything from server configuration to advanced schema markup implementation. Each guide includes:
+- Real code examples
+- Testing methodologies  
+- Performance benchmarks
+- Common pitfalls to avoid
 
-### ⚡ **Lightning Fast**
-- Built on VitePress for instant hot reload
-- Static site generation for optimal performance
-- No server-side rendering complexity
+### 📊 Open Source Tools & Scripts
+Curated collection of tools, scripts, and datasets that I've developed and tested in real-world scenarios:
+- Python scripts for SEO analysis
+- Server configuration templates
+- Monitoring and alerting tools
+- Data processing utilities
 
-### 🎯 **SEO Optimized**
-- Pre-rendered HTML for perfect crawling
-- Automatic meta tag generation
-- Clean URLs and semantic markup
+### 📈 Case Studies & Real Results
+Practical examples from actual implementations, complete with:
+- Before/after performance metrics
+- Lessons learned
+- ROI analysis
+- Scalable methodologies
 
-### 🛠️ **Developer Friendly**
-- Markdown-first content creation
-- Simple configuration
-- No component library conflicts
+## Why OpenSourceSEO?
 
-## Getting Started
+The SEO industry has evolved dramatically. Today's SEO professionals need to understand:
+- Core Web Vitals optimization
+- JavaScript rendering and crawling
+- Advanced server configurations
+- API integrations and automation
+- Data analysis and reporting
 
-Creating content is as simple as writing markdown files. Each post supports:
+This site bridges the gap between traditional SEO knowledge and modern technical implementation.
 
-- **Frontmatter** for metadata
-- **Rich markdown** with syntax highlighting
-- **Vue components** when needed
-- **Automatic routing** based on file structure
+## What's Coming Next
 
-## What's Next?
+I'm working on comprehensive guides for:
+- **Core Web Vitals Optimization** - Complete implementation guide
+- **Server Configuration for SEO** - Apache/Nginx best practices  
+- **Schema Markup Mastery** - Advanced structured data strategies
+- **JavaScript SEO** - SPA optimization techniques
+- **International SEO** - Hreflang and CDN configurations
 
-We'll be sharing more about:
-- Content management best practices
-- SEO optimization techniques
-- VitePress tips and tricks
-- Static site deployment strategies
+## Get Involved
 
-Welcome to the future of content management! 🚀 
+OpenSourceSEO is built for the community:
+- All code examples are available on [GitHub](https://github.com/dsottimano/opensourceseo)
+- Found an issue? Submit a pull request
+- Have a suggestion? Open an issue
+- Want to contribute? I'd love to collaborate
+
+## Stay Updated
+
+Follow along as I publish new guides, tools, and case studies. Each piece of content is tested in production environments and includes real performance data.
+
+Ready to dive in? Start with the [Technical SEO Guides](/guides/) or browse the latest [blog posts](/blog/).
+
+---
+
+*Have questions or suggestions? Reach out on [Twitter](https://twitter.com/dsottimano) or [GitHub](https://github.com/dsottimano).* 
