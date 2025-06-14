@@ -1,36 +1,35 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "OpenSourceSEO"
-  text: "Technical SEO Knowledge Hub"
-  tagline: "In-depth guides, open source tools, and technical configurations for the modern SEO professional"
+  name: "🚧 Under Construction 🚧"
+  text: "OpenSourceSEO"
+  tagline: "We're building something amazing for the SEO community! This site will feature in-depth technical SEO guides, open source tools, and practical configurations for SEO professionals."
+  image:
+    src: /logo.png
+    alt: OpenSourceSEO Logo
   actions:
     - theme: brand
-      text: Browse Guides
-      link: /guides/
-    - theme: alt
-      text: Latest Posts
-      link: /blog/
+      text: Follow on GitHub
+      link: https://github.com/dsottimano/opensourceseo
 
 features:
-  - title: 🔧 Technical Configuration Guides
-    details: Step-by-step tutorials for server configs, schema markup, Core Web Vitals optimization, and advanced technical SEO implementations.
+  - title: 📚 Technical SEO Guides
+    details: Step-by-step tutorials and in-depth guides for technical SEO implementations, server configurations, and optimization strategies.
   
-  - title: 📊 Open Source SEO Tools
-    details: Curated collection of open source tools, scripts, and datasets for SEO analysis, automation, and reporting.
+  - title: 🛠️ Open Source Tools
+    details: Curated collection of open source SEO tools, scripts, and utilities for analysis, automation, and reporting.
   
-  - title: 🚀 Performance & Speed
-    details: Deep dives into site speed optimization, Lighthouse scoring, and technical performance improvements that impact rankings.
+  - title: ⚡ Performance Optimization
+    details: Deep dives into site speed optimization, Core Web Vitals, and technical performance improvements.
   
-  - title: 📈 Data-Driven SEO
-    details: Analytics setup, custom tracking, API integrations, and data analysis techniques for evidence-based SEO strategies.
-  
-  - title: 🛠️ Developer-Friendly
-    details: Code examples, GitHub repositories, and technical implementations that bridge the gap between SEO and development.
+  - title: 📊 Data-Driven SEO
+    details: Analytics setup, custom tracking, API integrations, and data analysis techniques for evidence-based SEO.
   
   - title: 🎯 Real-World Case Studies
-    details: Practical examples from actual implementations, with before/after results and lessons learned from technical SEO projects.
+    details: Practical examples from actual implementations with before/after results and lessons learned.
+  
+  - title: 👨‍💻 Developer-Friendly
+    details: Code examples, GitHub repositories, and technical implementations that bridge SEO and development.
 ---
 

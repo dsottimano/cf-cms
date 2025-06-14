@@ -1,0 +1,28 @@
+/* Under Construction - Make logo bigger */
+
+.VPHero .image {
+  width: 280px !important;
+  height: 280px !important;
+  max-width: none !important;
+}
+
+.VPHero .image img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain !important;
+}
+
+/* Responsive logo sizing */
+@media (max-width: 768px) {
+  .VPHero .image {
+    width: 220px !important;
+    height: 220px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .VPHero .image {
+    width: 180px !important;
+    height: 180px !important;
+  }
+} 
