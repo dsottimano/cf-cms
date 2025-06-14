@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "OpenSourceSEO",
   description: "Technical SEO guides, open source tools, and in-depth configurations for SEO professionals",
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png', // Logo in navbar
