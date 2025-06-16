@@ -1,6 +1,6 @@
 # Technical SEO Guides
 
-Welcome to the comprehensive collection of technical SEO guides. These in-depth tutorials cover everything from server configuration to advanced optimization techniques.
+Enjoy an unfiltered, honest resource for SEO and all the new AI acronyms the cool kids call it.  
 
 ## 🚀 Getting Started
 

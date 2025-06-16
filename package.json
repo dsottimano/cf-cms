@@ -1,10 +1,13 @@
 {
   "scripts": {
-    "docs:dev": "vitepress dev",
+    "dev": "vitepress dev",
     "build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "preview": "vitepress preview"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.5",
+    "tailwindcss": "^3.4.17",
     "vitepress": "^1.6.3"
   }
 }

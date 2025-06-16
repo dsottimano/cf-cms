@@ -7,7 +7,7 @@ export default defineConfig({
   ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/logo.png', // Logo in navbar
+    logo: '/logo-transparent.png', // Logo in navbar
     
     nav: [
       { text: 'Home', link: '/' },
@@ -70,8 +70,8 @@ export default defineConfig({
   
   head: [
     // Favicon and app icons
-    ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
-    ['link', { rel: 'apple-touch-icon', href: '/logo.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/logo-transparent.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/logo-transparent.png' }],
     
     // Meta tags
     ['meta', { name: 'author', content: 'David Sottimano' }],
@@ -80,13 +80,13 @@ export default defineConfig({
     // Open Graph
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: 'OpenSourceSEO' }],
-    ['meta', { property: 'og:image', content: '/logo.png' }],
+    ['meta', { property: 'og:image', content: '/logo-transparent.png' }],
     ['meta', { property: 'og:image:width', content: '1200' }],
     ['meta', { property: 'og:image:height', content: '630' }],
     
     // Twitter
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:creator', content: '@dsottimano' }],
-    ['meta', { name: 'twitter:image', content: '/logo.png' }]
+    ['meta', { name: 'twitter:image', content: '/logo-transparent.png' }]
   ]
 })

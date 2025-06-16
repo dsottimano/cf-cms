@@ -1,8 +1,37 @@
-# Core Web Vitals Optimization Guide
+# Page Speed for Real Business
 
-**Difficulty:** 🟡 Intermediate | **Updated:** December 2024
+**Difficulty:** 🟡 Advanced | **Updated:** June 2025
 
-Core Web Vitals are essential metrics that measure real-world user experience. This guide covers everything you need to know to optimize for LCP, FID, and CLS.
+The large majority of websites don't do much, but most are more complicated then they should be.  There is nothing better than well formatted html for all intents and purposes on the web.  For techincal marketing like SEO or anything on the web, you want the equivalent to a giant open door that never squakes, never fails to open, and will never drop a water balloon on your head upon entering. 
+
+Let me explain.
+
+- Every browser accepts html. So, that door is wide open. This is meant to be an open secret, so don't tell anyone.
+
+![Alt text description](/html_support.png)
+
+- Consumers don't care about your fancy animations/reactivity/design.  They care about the information they need to make a decision. 
+
+At some point, someone out there ( you know who you are) decided that page transition or even page load required some fancy loading animation to display - wait for it, plain html. Other infamous web developers decided to slap you in the face with an interstitial that tries to make you sign up to receive spam.  Imagine going to your supermarket, heading to the fruit isle and trying to pick out an orange when... BAM! HEY IT SEEMS YOU LIKE ORANGES, HOW ABOUT YOU GIVE ME YOUR EMAIL SO I CAN SPAM YOU ABOUT ORANGES?  WAIT, DON'T WALK AWAY, OR ELSE YOU'RE AN ORANGE HATER. 
+
+Pair that with an insufferable close button you can't see and you have the digital equivalent to road rage. 
+
+Don't hide your content behind anything (accordions, interstitials, etc..), don't make people wait needlessly, and certainly don't prioritize design over functionality.  These days, consumers have the attention span of squirrels - make it easy. 
+
+- /me opens up Twitter, sees a great post, and whoosh, it's gone. 
+
+It's called page jank [https://www.afasterweb.com/2015/08/29/what-the-jank/] and it's because you're doing things wrong.  
+
+
+
+
+
+
+Core Web Vitals (LCP, FID, CLS, etc..) blah blah blah.  Seriously, for the most part you shouldn't complicate web development.  If you're a front end dev reading this, you're probably scratching your neck like Tyrone for that new Svelte/React/Vue feature but save that for authenticated routes please.
+
+For any content that is vital to the business, like the homepage, docs, marketing, even the blog - just stick to html and css.  Yes, seriously. 
+
+Most front-end frameworks provide SSR with hydration and a bunch of other fancy terms that just output easily accessible html. 
 
 ## What Are Core Web Vitals?
 

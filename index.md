@@ -2,11 +2,10 @@
 layout: home
 
 hero:
-  name: "🚧 Under Construction 🚧"
   text: "OpenSourceSEO"
-  tagline: "We're building something amazing for the SEO community! This site will feature in-depth technical SEO guides, open source tools, and practical configurations for SEO professionals."
+  tagline: "Enjoy an unfiltered, honest resource for SEO and all the new AI acronyms the cool kids call it. "
   image:
-    src: /logo.png
+    src: /logo-transparent.png
     alt: OpenSourceSEO Logo
   actions:
     - theme: brand
@@ -32,4 +31,7 @@ features:
   - title: 👨‍💻 Developer-Friendly
     details: Code examples, GitHub repositories, and technical implementations that bridge SEO and development.
 ---
+
+
+
 
